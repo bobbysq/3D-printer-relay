@@ -8,6 +8,6 @@ Materials:
 * Arduino  
 * Computer running OctoPrint
   * If you're using a Pi, there are probably better options for you using the Pi GPIO
-* [https://smile.amazon.com/SunFounder-Channel-Optocoupler-Expansion-Raspberry/dp/B00E0NTPP4/](Relay board)
+* [Relay board](https://smile.amazon.com/SunFounder-Channel-Optocoupler-Expansion-Raspberry/dp/B00E0NTPP4/)
   * Note that you will be putting 120VAC through this relay! Be sure to print a case for it so no one gets hurt!
 * Short IEC-320-C14 to IEC-320-C13 extension cable (or whatever connector your printer uses)
